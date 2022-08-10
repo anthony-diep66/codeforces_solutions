@@ -10,7 +10,7 @@ using namespace std;
 
 void solve()
 {
-    vector<int> nums = {1,2,4,3};j
+    vector<int> nums = {1,2,4,3};
     int n = nums.size();
 
     int dp[n+1];
